@@ -1,0 +1,25 @@
+.DS_STORE
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Deps
+node_modules/
+.npm
+
+# Coverage
+coverage
+
+# Bundle
+build
+
+# IDE
+.idea
+
+# Typescript
+*.tsbuildinfo
+.tsbuildinfo
+buildcache
+.buildcache
